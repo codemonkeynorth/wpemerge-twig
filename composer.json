@@ -31,8 +31,8 @@
     ]
   },
   "require": {
-    "php": "^7.0",
+    "php": ">7.0",
     "twig/twig": "^2.4",
-    "htmlburger/wpemerge": "~0.16.0"
+    "htmlburger/wpemerge": ">0.16.0"
   }
 }
