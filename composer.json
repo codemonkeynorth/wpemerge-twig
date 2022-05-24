@@ -1,5 +1,5 @@
 {
-  "name": "htmlburger/wpemerge-twig",
+  "name": "codemonkeynorth/wpemerge-twig",
   "description": "Enables the use of Twig views in WP Emerge.",
   "keywords": ["wordpress", "framework", "template", "view", "wpemerge"],
   "license": "GPL-2.0-only",
