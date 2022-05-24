@@ -1,3 +1,6 @@
+# NB: for test purposes only - do not use!
+temporary workaround until main repo dependencies are fixed
+
 # WP Emerge Twig
 
 Enables the use of Twig views in [WP Emerge](https://github.com/htmlburger/wpemerge).
